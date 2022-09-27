@@ -1,3 +1,6 @@
+//Author: Tanmay Sharma
+//Enroll: 0801CS211094
+//Prog:   Calculator with time delay and option to exit/ or not
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
